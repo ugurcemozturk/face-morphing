@@ -1,0 +1,7 @@
+# Prebuild image with bundled opencv and dlib
+FROM m03geek/opencv-dlib
+LABEL maintainer="ugurcem.dev@gmail.com"
+LABEL description="Create face morph flows as a mp4 video."
+
+# To be continued
+
